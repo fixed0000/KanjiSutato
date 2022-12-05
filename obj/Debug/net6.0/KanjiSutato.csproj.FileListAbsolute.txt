@@ -1,0 +1,15 @@
+C:\Users\ssh21\source\repos\KanjiSutato\bin\Debug\net6.0\KanjiSutato.exe
+C:\Users\ssh21\source\repos\KanjiSutato\bin\Debug\net6.0\KanjiSutato.deps.json
+C:\Users\ssh21\source\repos\KanjiSutato\bin\Debug\net6.0\KanjiSutato.runtimeconfig.json
+C:\Users\ssh21\source\repos\KanjiSutato\bin\Debug\net6.0\KanjiSutato.dll
+C:\Users\ssh21\source\repos\KanjiSutato\bin\Debug\net6.0\KanjiSutato.pdb
+C:\Users\ssh21\source\repos\KanjiSutato\obj\Debug\net6.0\KanjiSutato.csproj.AssemblyReference.cache
+C:\Users\ssh21\source\repos\KanjiSutato\obj\Debug\net6.0\KanjiSutato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssh21\source\repos\KanjiSutato\obj\Debug\net6.0\KanjiSutato.AssemblyInfoInputs.cache
+C:\Users\ssh21\source\repos\KanjiSutato\obj\Debug\net6.0\KanjiSutato.AssemblyInfo.cs
+C:\Users\ssh21\source\repos\KanjiSutato\obj\Debug\net6.0\KanjiSutato.csproj.CoreCompileInputs.cache
+C:\Users\ssh21\source\repos\KanjiSutato\obj\Debug\net6.0\KanjiSutato.dll
+C:\Users\ssh21\source\repos\KanjiSutato\obj\Debug\net6.0\refint\KanjiSutato.dll
+C:\Users\ssh21\source\repos\KanjiSutato\obj\Debug\net6.0\KanjiSutato.pdb
+C:\Users\ssh21\source\repos\KanjiSutato\obj\Debug\net6.0\KanjiSutato.genruntimeconfig.cache
+C:\Users\ssh21\source\repos\KanjiSutato\obj\Debug\net6.0\ref\KanjiSutato.dll
