@@ -16,4 +16,3 @@ namespace KanjiSutato
         public int NumberInRow;
     }
 }
-[
